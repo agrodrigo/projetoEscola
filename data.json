@@ -1,0 +1,112 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "avatar_url": "https://images.unsplash.com/photo-1532788592275-3f310c81dd95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+            "name": "Felipe Pereira",
+            "email": "felipe@gmail.com",
+            "birth": 1419292800000,
+            "school_year": "f5",
+            "study_load": "13"
+        },
+        {
+            "id": 3,
+            "avatar_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "name": "Juliane Pinto",
+            "email": "juliane@gmail.com",
+            "birth": 390960000000,
+            "school_year": "m3",
+            "study_load": "35"
+        },
+        {
+            "id": 4,
+            "avatar_url": "https://images.unsplash.com/photo-1580894732930-0babd100d356?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "name": "RODRIGO PINTO PEREIRA",
+            "email": "rodrigo.geogis@gmail.com",
+            "birth": 440985600000,
+            "school_year": "m2",
+            "study_load": "20"
+        },
+        {
+            "id": 5,
+            "avatar_url": "https://images.unsplash.com/photo-1532788592275-3f310c81dd95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+            "name": "LUANA RIBEIRO SILVA",
+            "email": "luana@gmail.com",
+            "birth": 706060800000,
+            "school_year": "m3",
+            "study_load": "36"
+        }
+    ],
+    "teachers": [
+        {
+            "id": 2,
+            "avatar_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "name": "Luana Ribeiro",
+            "birth": 706060800000,
+            "educational_level": "superior",
+            "type_class": "remotely",
+            "services": "Biologia, Ciências",
+            "created_at": 1593002938900
+        },
+        {
+            "id": 3,
+            "avatar_url": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "name": "Miguel Ribeiro Pinto",
+            "birth": 1474675200000,
+            "educational_level": "medio",
+            "type_class": "presential",
+            "services": "Desenvolvimento",
+            "created_at": 1593003051731
+        },
+        {
+            "id": 4,
+            "avatar_url": "https://images.unsplash.com/photo-1497551060073-4c5ab6435f12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
+            "name": "Rodrigo Pinto",
+            "birth": 440985600000,
+            "educational_level": "superior",
+            "type_class": "remotely",
+            "services": "Desenvolvimento, Matemática",
+            "created_at": 440985600000
+        },
+        {
+            "id": 8,
+            "avatar_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "name": "Beatriz Pinto Pereira",
+            "birth": 603504000000,
+            "educational_level": "superior",
+            "type_class": "presential",
+            "services": "Veterinária, Medicina",
+            "created_at": 1593271083547
+        },
+        {
+            "id": 9,
+            "avatar_url": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "name": "Juliane Pereira",
+            "birth": 390960000000,
+            "educational_level": "superior",
+            "type_class": "remotely",
+            "services": "Turismo, Viagens",
+            "created_at": 1593271269574
+        },
+        {
+            "id": 10,
+            "avatar_url": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "name": "Rafael Kardec",
+            "birth": 307929600000,
+            "educational_level": "superior",
+            "type_class": "remotely",
+            "services": "direito, tributário, criminal",
+            "created_at": 1593271331537
+        },
+        {
+            "id": 11,
+            "avatar_url": "https://images.unsplash.com/photo-1580894732930-0babd100d356?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "name": "Maria Regina",
+            "birth": -331084800000,
+            "educational_level": "medio",
+            "type_class": "presential",
+            "services": "Farmácia, Pet shop",
+            "created_at": 1593271974469
+        }
+    ]
+}
